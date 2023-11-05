@@ -1,7 +1,7 @@
 alert("Error! Please enter a valid passwoard.");
 
 alert("Welcome to JS land... \n Happy coding");
-// // window.alert("Welcome to JS land...  Happy coding")
+window.alert("Welcome to JS land...  Happy coding")
 
 
 alert("Welcome to JS land...");
